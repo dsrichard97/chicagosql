@@ -151,7 +151,7 @@
   <section id="data-set-used">
     <h2>Define Methodology</h2>
     <p>
-Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
+We are only intrested in the data for the last 5 years starting from the initial date and we will go ahead and descending the following code in order to create a geographical hotspot zone to utilize via tableau or powerBI. Overall, the data seems clean and has been updated. For more information on updates: https://data.cityofchicago.org/browse?q=CRIME&sortBy=relevance
 
 <P>
 
