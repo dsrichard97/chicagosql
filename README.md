@@ -34,7 +34,6 @@
   <section id="initial-problem">
     <h2>Identify Issues</h2>
     <p>
-We will do the following ...
 <br>
 - Missing Values: Identify columns with missing data. Determine if the missing data is random or systematic.
 </br>
