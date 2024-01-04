@@ -5,7 +5,8 @@
   <img src="ch2.jpeg" width="300" alt="Sublime's custom image"/>
 </p>
 
-<p  <img src="https://img.shields.io/badge/Python_Version-3.10%2B-blue" title="Python Version">
+<p  
+  <img src="https://img.shields.io/badge/Python_Version-3.10%2B-blue" title="Python Version">
   <img src="https://img.shields.io/github/last-commit/dsrichard97/chicago_crime">
   <img src="https://img.shields.io/badge/STAT-Algorithms-red">
   <img src="https://img.shields.io/badge/SQL-Descriptive Statistics-brown">
