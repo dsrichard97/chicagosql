@@ -49,7 +49,101 @@
   <section id="about-the-data">
     <h2>Inspect Data Structure</h2>
     <p>
-Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
+<table border="1">
+    <tr>
+        <th>Column Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>ID</td>
+        <td>Unique identifier for the record. (Number)</td>
+    </tr>
+    <tr>
+        <td>Case Number</td>
+        <td>The Chicago Police Department RD Number (Records Division Number), unique to the incident. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>Date when the incident occurred. This is sometimes a best estimate. (Date & Time)</td>
+    </tr>
+    <tr>
+        <td>Block</td>
+        <td>The partially redacted address where the incident occurred, placing it on the same block as the actual address. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>IUCR</td>
+        <td>The Illinois Uniform Crime Reporting code. Directly linked to the Primary Type and Description. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Primary Type</td>
+        <td>The primary description of the IUCR code. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Description</td>
+        <td>The secondary description of the IUCR code, a subcategory of the primary description. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Location Description</td>
+        <td>Description of the location where the incident occurred. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Arrest</td>
+        <td>Indicates whether an arrest was made. (Checkbox)</td>
+    </tr>
+    <tr>
+        <td>Domestic</td>
+        <td>Indicates whether the incident was domestic-related as defined by the Illinois Domestic Violence Act. (Checkbox)</td>
+    </tr>
+    <tr>
+        <td>Beat</td>
+        <td>Indicates the beat where the incident occurred. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>District</td>
+        <td>Indicates the police district where the incident occurred. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>Ward</td>
+        <td>The ward (City Council district) where the incident occurred. (Number)</td>
+    </tr>
+    <tr>
+        <td>Community Area</td>
+        <td>Indicates the community area where the incident occurred. (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>FBI Code</td>
+        <td>Indicates the crime classification as outlined in the FBI's National Incident-Based Reporting System (NIBRS). (Plain Text)</td>
+    </tr>
+    <tr>
+        <td>X Coordinate</td>
+        <td>The x coordinate of the location where the incident occurred in State Plane Illinois East NAD 1983 projection. (Number)</td>
+    </tr>
+    <tr>
+        <td>Y Coordinate</td>
+        <td>The y coordinate of the location where the incident occurred in State Plane Illinois East NAD 1983 projection. (Number)</td>
+    </tr>
+    <tr>
+        <td>Year</td>
+        <td>Year the incident occurred. (Number)</td>
+    </tr>
+    <tr>
+        <td>Updated On</td>
+        <td>Date and time the record was last updated. (Date & Time)</td>
+    </tr>
+    <tr>
+        <td>Latitude</td>
+        <td>The latitude of the location where the incident occurred. (Number)</td>
+    </tr>
+    <tr>
+        <td>Longitude</td>
+        <td>The longitude of the location where the incident occurred. (Number)</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>The location where the incident occurred in a format allowing for map creation and other geographic operations. (Location)</td>
+    </tr>
+</table>
+
 
 <P>
 
