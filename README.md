@@ -34,8 +34,42 @@
   <section id="initial-problem">
     <h2>Identify Issues</h2>
     <p>
+We will do the following ... 
+- Missing Values: Identify columns with missing data. Determine if the missing data is random or systematic.
+- Outliers: Look for unusual or extreme values that could indicate data entry errors or genuine anomalies.
+- Consistency: Check for consistent formatting in dates, times, and categorical data like crime types and locations.
+
+<P>
+
+<P>
+  <section id="about-the-data">
+    <h2>Inspect Data Structure</h2>
+    <p>
 Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
 
+<P>
+
+<P>
+  <section id="data-set-used">
+    <h2>Define Methodology</h2>
+    <p>
+Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
+
+<P>
+
+<P>
+  <section id="methods">
+    <h2>Technology Utilization</h2>
+    <p>
+Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
+
+<P>
+
+<P>
+  <section id="tech-stack">
+    <h2>Technology Utilization</h2>
+    <p>
+Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
 
 <P>
  
