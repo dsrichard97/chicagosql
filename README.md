@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python_Version-3.10%2B-blue" title="Python Version">
   <img src="https://img.shields.io/github/last-commit/dsrichard97/chicago_crime">
-  <img src="https://img.shields.io/badge/STAT-Algorithms-red">
   <img src="https://img.shields.io/badge/SQL-Descriptive Statistics-brown">
   <img src="https://img.shields.io/badge/Alteryx-Analysis-blue">
   <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
