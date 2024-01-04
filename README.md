@@ -155,22 +155,6 @@ We are only intrested in the data for the last 5 years starting from the initial
 
 <P>
 
-<P>
-  <section id="methods">
-    <h2>Technology Utilization</h2>
-    <p>
-Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
-
-<P>
-
-<P>
-  <section id="tech-stack">
-    <h2>Technology Utilization</h2>
-    <p>
-Exploring the Impact of Socio-Economic and Racial Factors on Maternal and Infant Health Outcomes in Different Counties
-
-<P>
- 
 
 
 
