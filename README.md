@@ -21,12 +21,6 @@
     <li><a href="#about-the-data">Inspect Data Structure</a></li>
     <li><a href="#data-set-used">Data Selection</a></li>
     <li><a href="#methods">Define Methodology</a></li>
-    <li><a href="#tech-stack">Technology Utilization</a></li>
-    <li><a href="#quick-glance">Preliminary Findings</a></li>
-    <li><a href="#lesson-learned">Insights and Learnings</a></li>
-    <li><a href="#limitation">Review Limitations</a></li>
-    <li><a href="#notebook">Detailed Analysis</a></li>
-    <li><a href="#report">Final Documentation</a></li>
   </ul>
 </p>
 
